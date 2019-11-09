@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{D99F4B00-B916-492E-9373-F49DD131D413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99F4B00-B916-492E-9373-F49DD131D413}.Debug|x86.ActiveCfg = Debug|x86
+		{D99F4B00-B916-492E-9373-F49DD131D413}.Debug|x86.Build.0 = Debug|x86
+		{D99F4B00-B916-492E-9373-F49DD131D413}.Release|x86.ActiveCfg = Release|x86
+		{D99F4B00-B916-492E-9373-F49DD131D413}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
